@@ -44,6 +44,8 @@ Use npm install.
 
 ## UI Design.
 
+![alt text](https://github.com/EvanG-17/Web-App-Dev-2-Assignment1/blob/main/src/images/homePage.png)
+
 
 
 ## Independent learning (If relevant).
