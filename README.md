@@ -46,6 +46,8 @@ Use npm install.
 
 ![alt text](https://github.com/EvanG-17/Web-App-Dev-2-Assignment1/blob/main/src/images/homePage.png)
 This is the website home index, displaying movie information
+![alt text](https://github.com/EvanG-17/Web-App-Dev-2-Assignment1/blob/main/src/images/favouritesPage.png)
+After favouriting a movie, we can then see all displayed favourites in this page.
 
 
 
