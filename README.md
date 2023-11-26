@@ -29,7 +29,7 @@ Use npm install.
 + /movie/popular - Popular movies.
 + /actors - Actors home page with names.
 + /actor/:id - Parameterized Actor page.
-
+.
 
 ## Routing.
 
@@ -48,6 +48,12 @@ Use npm install.
 This is the website home index, displaying movie information
 ![alt text](https://github.com/EvanG-17/Web-App-Dev-2-Assignment1/blob/main/src/images/favouritesPage.png)
 After favouriting a movie, we can then see all displayed favourites in this page.
+![alt text](https://github.com/EvanG-17/Web-App-Dev-2-Assignment1/blob/main/src/images/upcomingPage.png)
+Here we can see all upcoming movies.
+![alt text](https://github.com/EvanG-17/Web-App-Dev-2-Assignment1/blob/main/src/images/popularPage.png)
+This page shows the most popular movies according to the TMDB database.
+![alt text](https://github.com/EvanG-17/Web-App-Dev-2-Assignment1/blob/main/src/images/actorsPage.png)
+Here we can see all actors, along with their names and images.
 
 
 
