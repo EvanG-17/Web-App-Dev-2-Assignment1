@@ -38,28 +38,4 @@ export default function FilterActorsCard(props) {
     handleChange(e, "name", e.target.value);
   };
 
-  return (
-    <Card 
-      sx={{
-        maxWidth: 345,
-        backgroundColor: "#55C2C3"
-      }} 
-      variant="outlined">
-      <CardContent>
-        <Typography variant="h5" component="h1">
-          <SearchIcon fontSize="large" />
-          Filter the actors.
-        </Typography>
-        <TextField
-      sx={{...formControl}}
-      id="filled-search"
-      label="Search field"
-      type="search"
-      variant="filled"
-      value={props.nameFilter}
-      onChange={handleTextChange}
-    />
-      </CardContent>
-    </Card>
-  );
 }
